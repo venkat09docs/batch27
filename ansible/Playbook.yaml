@@ -1,1 +1,3 @@
 This is for Ansible Implementation
+hosts: all
+become: yes
