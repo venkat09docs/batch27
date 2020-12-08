@@ -1,1 +1,4 @@
 This is to implement Jenkins Process
+pipeline{
+stages
+}
